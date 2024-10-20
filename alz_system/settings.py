@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-plwzna%^aksxoj1a10p(30@hlz8kj#aoman_d__=!4l&doi+kx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['alzheimerdiagnosis.onrender.com', 'localhost']
 
