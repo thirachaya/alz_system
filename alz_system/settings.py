@@ -81,9 +81,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'alzheimers_project',
         'USER': 'root',
-        'PASSWORD': '20011226',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PASSWORD': 'fTJTtBkrBEbeK1guccPdTXGW3IrSWvAR',
+        'HOST': 'dpg-csalv4bqf0us73a05u30-a',
+        'PORT': '5432',
     }
 }
 
